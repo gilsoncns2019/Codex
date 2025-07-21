@@ -1,0 +1,12 @@
+{
+  "id": "obsidian-codex",
+  "name": "Codex - AI Document Processor",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Transforma PDFs em notas estruturadas usando Gemini AI. Extrai conceitos-chave, gera resumos e cria notas interconectadas automaticamente.",
+  "author": "Manus AI",
+  "authorUrl": "https://github.com/manus-ai",
+  "fundingUrl": "https://github.com/sponsors/manus-ai",
+  "isDesktopOnly": false
+}
+
